@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    // Jetbrains Mono
+    // Segoe UI
+    // IBM  Plex Mono
+    "editor.fontWeight": "600",
+    "git.ignoreLimitWarning": true
+}
